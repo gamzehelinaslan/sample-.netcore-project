@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oj/O7lIXQ1Nip2K/SiTuknV7yjSGLkSKwJkb7gM45COwwZcEtaYsXmX1W1yAVkc14gfgEKZf5kMHbg+J424rFg==",
+  "success": true,
+  "projectFilePath": "/Users/gamzehelinaslan/Downloads/AspNetCoreScheduleControl-master/ScheduleControl/ScheduleControl.WebAPI/ScheduleControl.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/gamzehelinaslan/.nuget/packages/microsoft.owin/3.0.1/microsoft.owin.3.0.1.nupkg.sha512",
+    "/Users/gamzehelinaslan/.nuget/packages/owin/1.0.0/owin.1.0.0.nupkg.sha512",
+    "/Users/gamzehelinaslan/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/gamzehelinaslan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/gamzehelinaslan/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Owin 3.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Owin",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Owin 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Owin",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

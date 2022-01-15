@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ScheduleControl.BackgroundJob
+build_property.ProjectDir = /Users/gamzehelinaslan/Downloads/AspNetCoreScheduleControl-master/ScheduleControl/ScheduleControl.BackgroundJob/
